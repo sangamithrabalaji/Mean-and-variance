@@ -64,15 +64,15 @@ plot2d3('gnn', r);
 
 ```
 TABULATION
-<img width="914" height="1600" alt="image" src="https://github.com/user-attachments/assets/97fc4492-3ffb-43c8-b951-195913848a3c" />
-<img width="1582" height="1600" alt="image" src="https://github.com/user-attachments/assets/d7752f7c-8610-4fbc-84e0-a9ccffd1b22c" />
+<img width="899" height="1426" alt="image" src="https://github.com/user-attachments/assets/973beaad-f74d-4dee-8f98-4d723dffea77" />
+<img width="1283" height="1600" alt="image" src="https://github.com/user-attachments/assets/0ef487b6-903d-4fcb-8127-2c3b9ae9d2e9" />
 
 CALCULATION
 
-1.Mean of X=0.75
+1.Mean of X=2
  
 
-2.Variance of x:-0.2625
+2.Variance of x:-0.8
   
 
 Cross correlation
@@ -80,7 +80,9 @@ Type in the reference sequence =[1 2 3 4 4 3 2 1]
 
 
 OUTPUT 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06321cef-da0c-4332-99c2-264c0fcd763a" />
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/c439739e-eddc-4566-91f3-b8fb22f9beec" />
+<img width="1600" height="1368" alt="image" src="https://github.com/user-attachments/assets/b87c8ed0-2534-4621-812b-96997cc5b535" />
+
 
 RESULT: 
 Thus, the mean, variance and cross correlation are executed in Scilab and output is verified.
