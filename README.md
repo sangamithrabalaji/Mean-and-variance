@@ -64,16 +64,16 @@ plot2d3('gnn', r);
 
 ```
 TABULATION
-<img width="899" height="1426" alt="image" src="https://github.com/user-attachments/assets/973beaad-f74d-4dee-8f98-4d723dffea77" />
-<img width="1283" height="1600" alt="image" src="https://github.com/user-attachments/assets/0ef487b6-903d-4fcb-8127-2c3b9ae9d2e9" />
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/18f4be52-4a11-4529-a377-e5072258f501" />
+
 
 CALCULATION
 
 1.Mean of X=2
- 
-
 2.Variance of x:-0.8
-  
+<img width="1048" height="1600" alt="image" src="https://github.com/user-attachments/assets/6e65c15b-5dc1-44e0-8096-3df831df907f" />
+<img width="1536" height="1378" alt="image" src="https://github.com/user-attachments/assets/7488f59b-d7fb-428a-8eba-720f443741af" />
+
 
 Cross correlation
 Type in the reference sequence =[1 2 3 4 4 3 2 1]
